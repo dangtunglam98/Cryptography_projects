@@ -1,0 +1,471 @@
+For n = 9:
+For the number 2
+4, 8, 7, 5, 1, 2, 
+
+2 is a generator
+
+
+For the number 4
+7, 1, 4, 7, 1, 4, 
+
+4 is NOT a generator
+
+
+For the number 5
+7, 8, 4, 2, 1, 5, 
+
+5 is a generator
+
+
+For the number 7
+4, 1, 7, 4, 1, 7, 
+
+7 is NOT a generator
+
+
+For the number 8
+1, 8, 1, 8, 1, 8, 
+
+8 is NOT a generator
+
+
+generators are [2, 5]
+---------------------------------------------------------------------------
+For n = 13:
+For the number 2
+4, 8, 3, 6, 12, 11, 9, 5, 10, 7, 1, 2, 
+
+2 is a generator
+
+
+For the number 3
+9, 1, 3, 9, 1, 3, 9, 1, 3, 9, 1, 3, 
+
+3 is NOT a generator
+
+
+For the number 4
+3, 12, 9, 10, 1, 4, 3, 12, 9, 10, 1, 4, 
+
+4 is NOT a generator
+
+
+For the number 5
+12, 8, 1, 5, 12, 8, 1, 5, 12, 8, 1, 5, 
+
+5 is NOT a generator
+
+
+For the number 6
+10, 8, 9, 2, 12, 7, 3, 5, 4, 11, 1, 6, 
+
+6 is a generator
+
+
+For the number 7
+10, 5, 9, 11, 12, 6, 3, 8, 4, 2, 1, 7, 
+
+7 is a generator
+
+
+For the number 8
+12, 5, 1, 8, 12, 5, 1, 8, 12, 5, 1, 8, 
+
+8 is NOT a generator
+
+
+For the number 9
+3, 1, 9, 3, 1, 9, 3, 1, 9, 3, 1, 9, 
+
+9 is NOT a generator
+
+
+For the number 10
+9, 12, 3, 4, 1, 10, 9, 12, 3, 4, 1, 10, 
+
+10 is NOT a generator
+
+
+For the number 11
+4, 5, 3, 7, 12, 2, 9, 8, 10, 6, 1, 11, 
+
+11 is a generator
+
+
+For the number 12
+1, 12, 1, 12, 1, 12, 1, 12, 1, 12, 1, 12, 
+
+12 is NOT a generator
+
+
+generators are [2, 6, 7, 11]
+---------------------------------------------------------------------------
+For n = 17:
+For the number 2
+4, 8, 16, 15, 13, 9, 1, 2, 4, 8, 16, 15, 13, 9, 1, 2, 
+
+2 is NOT a generator
+
+
+For the number 3
+9, 10, 13, 5, 15, 11, 16, 14, 8, 7, 4, 12, 2, 6, 1, 3, 
+
+3 is a generator
+
+
+For the number 4
+16, 13, 1, 4, 16, 13, 1, 4, 16, 13, 1, 4, 16, 13, 1, 4, 
+
+4 is NOT a generator
+
+
+For the number 5
+8, 6, 13, 14, 2, 10, 16, 12, 9, 11, 4, 3, 15, 7, 1, 5, 
+
+5 is a generator
+
+
+For the number 6
+2, 12, 4, 7, 8, 14, 16, 11, 15, 5, 13, 10, 9, 3, 1, 6, 
+
+6 is a generator
+
+
+For the number 7
+15, 3, 4, 11, 9, 12, 16, 10, 2, 14, 13, 6, 8, 5, 1, 7, 
+
+7 is a generator
+
+
+For the number 8
+13, 2, 16, 9, 4, 15, 1, 8, 13, 2, 16, 9, 4, 15, 1, 8, 
+
+8 is NOT a generator
+
+
+For the number 9
+13, 15, 16, 8, 4, 2, 1, 9, 13, 15, 16, 8, 4, 2, 1, 9, 
+
+9 is NOT a generator
+
+
+For the number 10
+15, 14, 4, 6, 9, 5, 16, 7, 2, 3, 13, 11, 8, 12, 1, 10, 
+
+10 is a generator
+
+
+For the number 11
+2, 5, 4, 10, 8, 3, 16, 6, 15, 12, 13, 7, 9, 14, 1, 11, 
+
+11 is a generator
+
+
+For the number 12
+8, 11, 13, 3, 2, 7, 16, 5, 9, 6, 4, 14, 15, 10, 1, 12, 
+
+12 is a generator
+
+
+For the number 13
+16, 4, 1, 13, 16, 4, 1, 13, 16, 4, 1, 13, 16, 4, 1, 13, 
+
+13 is NOT a generator
+
+
+For the number 14
+9, 7, 13, 12, 15, 6, 16, 3, 8, 10, 4, 5, 2, 11, 1, 14, 
+
+14 is a generator
+
+
+For the number 15
+4, 9, 16, 2, 13, 8, 1, 15, 4, 9, 16, 2, 13, 8, 1, 15, 
+
+15 is NOT a generator
+
+
+For the number 16
+1, 16, 1, 16, 1, 16, 1, 16, 1, 16, 1, 16, 1, 16, 1, 16, 
+
+16 is NOT a generator
+
+
+generators are [3, 5, 6, 7, 10, 11, 12, 14]
+---------------------------------------------------------------------------
+For n = 19:
+For the number 2
+4, 8, 16, 13, 7, 14, 9, 18, 17, 15, 11, 3, 6, 12, 5, 10, 1, 2, 
+
+2 is a generator
+
+
+For the number 3
+9, 8, 5, 15, 7, 2, 6, 18, 16, 10, 11, 14, 4, 12, 17, 13, 1, 3, 
+
+3 is a generator
+
+
+For the number 4
+16, 7, 9, 17, 11, 6, 5, 1, 4, 16, 7, 9, 17, 11, 6, 5, 1, 4, 
+
+4 is NOT a generator
+
+
+For the number 5
+6, 11, 17, 9, 7, 16, 4, 1, 5, 6, 11, 17, 9, 7, 16, 4, 1, 5, 
+
+5 is NOT a generator
+
+
+For the number 6
+17, 7, 4, 5, 11, 9, 16, 1, 6, 17, 7, 4, 5, 11, 9, 16, 1, 6, 
+
+6 is NOT a generator
+
+
+For the number 7
+11, 1, 7, 11, 1, 7, 11, 1, 7, 11, 1, 7, 11, 1, 7, 11, 1, 7, 
+
+7 is NOT a generator
+
+
+For the number 8
+7, 18, 11, 12, 1, 8, 7, 18, 11, 12, 1, 8, 7, 18, 11, 12, 1, 8, 
+
+8 is NOT a generator
+
+
+For the number 9
+5, 7, 6, 16, 11, 4, 17, 1, 9, 5, 7, 6, 16, 11, 4, 17, 1, 9, 
+
+9 is NOT a generator
+
+
+For the number 10
+5, 12, 6, 3, 11, 15, 17, 18, 9, 14, 7, 13, 16, 8, 4, 2, 1, 10, 
+
+10 is a generator
+
+
+For the number 11
+7, 1, 11, 7, 1, 11, 7, 1, 11, 7, 1, 11, 7, 1, 11, 7, 1, 11, 
+
+11 is NOT a generator
+
+
+For the number 12
+11, 18, 7, 8, 1, 12, 11, 18, 7, 8, 1, 12, 11, 18, 7, 8, 1, 12, 
+
+12 is NOT a generator
+
+
+For the number 13
+17, 12, 4, 14, 11, 10, 16, 18, 6, 2, 7, 15, 5, 8, 9, 3, 1, 13, 
+
+13 is a generator
+
+
+For the number 14
+6, 8, 17, 10, 7, 3, 4, 18, 5, 13, 11, 2, 9, 12, 16, 15, 1, 14, 
+
+14 is a generator
+
+
+For the number 15
+16, 12, 9, 2, 11, 13, 5, 18, 4, 3, 7, 10, 17, 8, 6, 14, 1, 15, 
+
+15 is a generator
+
+
+For the number 16
+9, 11, 5, 4, 7, 17, 6, 1, 16, 9, 11, 5, 4, 7, 17, 6, 1, 16, 
+
+16 is NOT a generator
+
+
+For the number 17
+4, 11, 16, 6, 7, 5, 9, 1, 17, 4, 11, 16, 6, 7, 5, 9, 1, 17, 
+
+17 is NOT a generator
+
+
+For the number 18
+1, 18, 1, 18, 1, 18, 1, 18, 1, 18, 1, 18, 1, 18, 1, 18, 1, 18, 
+
+18 is NOT a generator
+
+
+generators are [2, 3, 10, 13, 14, 15]
+---------------------------------------------------------------------------
+For n = 27:
+For the number 2
+4, 8, 16, 5, 10, 20, 13, 26, 25, 23, 19, 11, 22, 17, 7, 14, 1, 2, 
+
+2 is a generator
+
+
+For the number 4
+16, 10, 13, 25, 19, 22, 7, 1, 4, 16, 10, 13, 25, 19, 22, 7, 1, 4, 
+
+4 is NOT a generator
+
+
+For the number 5
+25, 17, 4, 20, 19, 14, 16, 26, 22, 2, 10, 23, 7, 8, 13, 11, 1, 5, 
+
+5 is a generator
+
+
+For the number 7
+22, 19, 25, 13, 10, 16, 4, 1, 7, 22, 19, 25, 13, 10, 16, 4, 1, 7, 
+
+7 is NOT a generator
+
+
+For the number 8
+10, 26, 19, 17, 1, 8, 10, 26, 19, 17, 1, 8, 10, 26, 19, 17, 1, 8, 
+
+8 is NOT a generator
+
+
+For the number 10
+19, 1, 10, 19, 1, 10, 19, 1, 10, 19, 1, 10, 19, 1, 10, 19, 1, 10, 
+
+10 is NOT a generator
+
+
+For the number 11
+13, 8, 7, 23, 10, 2, 22, 26, 16, 14, 19, 20, 4, 17, 25, 5, 1, 11, 
+
+11 is a generator
+
+
+For the number 13
+7, 10, 22, 16, 19, 4, 25, 1, 13, 7, 10, 22, 16, 19, 4, 25, 1, 13, 
+
+13 is NOT a generator
+
+
+For the number 14
+7, 17, 22, 11, 19, 23, 25, 26, 13, 20, 10, 5, 16, 8, 4, 2, 1, 14, 
+
+14 is a generator
+
+
+For the number 16
+13, 19, 7, 4, 10, 25, 22, 1, 16, 13, 19, 7, 4, 10, 25, 22, 1, 16, 
+
+16 is NOT a generator
+
+
+For the number 17
+19, 26, 10, 8, 1, 17, 19, 26, 10, 8, 1, 17, 19, 26, 10, 8, 1, 17, 
+
+17 is NOT a generator
+
+
+For the number 19
+10, 1, 19, 10, 1, 19, 10, 1, 19, 10, 1, 19, 10, 1, 19, 10, 1, 19, 
+
+19 is NOT a generator
+
+
+For the number 20
+22, 8, 25, 14, 10, 11, 4, 26, 7, 5, 19, 2, 13, 17, 16, 23, 1, 20, 
+
+20 is a generator
+
+
+For the number 22
+25, 10, 4, 7, 19, 13, 16, 1, 22, 25, 10, 4, 7, 19, 13, 16, 1, 22, 
+
+22 is NOT a generator
+
+
+For the number 23
+16, 17, 13, 2, 19, 5, 7, 26, 4, 11, 10, 14, 25, 8, 22, 20, 1, 23, 
+
+23 is a generator
+
+
+For the number 25
+4, 19, 16, 22, 10, 7, 13, 1, 25, 4, 19, 16, 22, 10, 7, 13, 1, 25, 
+
+25 is NOT a generator
+
+
+For the number 26
+1, 26, 1, 26, 1, 26, 1, 26, 1, 26, 1, 26, 1, 26, 1, 26, 1, 26, 
+
+26 is NOT a generator
+
+
+generators are [2, 5, 11, 14, 20, 23]
+---------------------------------------------------------------------------
+For n = 12:
+For the number 5
+1, 5, 1, 5, 
+
+5 is NOT a generator
+
+
+For the number 7
+1, 7, 1, 7, 
+
+7 is NOT a generator
+
+
+For the number 11
+1, 11, 1, 11, 
+
+11 is NOT a generator
+
+
+There are no generators
+---------------------------------------------------------------------------
+For n = 15:
+For the number 2
+4, 8, 1, 2, 4, 8, 1, 2, 
+
+2 is NOT a generator
+
+
+For the number 4
+1, 4, 1, 4, 1, 4, 1, 4, 
+
+4 is NOT a generator
+
+
+For the number 7
+4, 13, 1, 7, 4, 13, 1, 7, 
+
+7 is NOT a generator
+
+
+For the number 8
+4, 2, 1, 8, 4, 2, 1, 8, 
+
+8 is NOT a generator
+
+
+For the number 11
+1, 11, 1, 11, 1, 11, 1, 11, 
+
+11 is NOT a generator
+
+
+For the number 13
+4, 7, 1, 13, 4, 7, 1, 13, 
+
+13 is NOT a generator
+
+
+For the number 14
+1, 14, 1, 14, 1, 14, 1, 14, 
+
+14 is NOT a generator
+
+
+There are no generators
+---------------------------------------------------------------------------
