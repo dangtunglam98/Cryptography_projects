@@ -2,15 +2,15 @@ def decrypt(cipherFiletext, key):
     encodeFile = open(cipherFiletext, "r")
     encode = encodeFile.read()
     key_length = len(key)
-    key_as_int = [ord(i) for i in key]
-    ciphertext_int = [ord(i) for i in encode]
+    keyChar_ord = [ord(i) for i in key]
+    encodeChar_ord = [ord(i) for i in encode]
     decryptText = ''
     outFile = open('decrypt_' + cipherFiletext, 'w')
-    for i in range(len(ciphertext_int)):
-        if not chr(ciphertext_int[i]).isalpha():
-            decryptText += chr(ciphertext_int[i])
+    for i in range(len(encodeChar_ord)):
+        if not chr(encodeChar_ord[i]).isalpha():
+            decryptText += chr(encodeChar_ord[i])
         else:
-            value = (ciphertext_int[i] - key_as_int[i % key_length]) % 26
+            value = (encodeChar_ord[i] - keyChar_ord[i % key_length]) % 26
             decryptText += chr(value + 65)
 
     decryptText = decryptText.replace("\'", '\'')
